@@ -1,8 +1,9 @@
-baseURL = "https://catsolution.brelivet.fr"
+baseURL = "https://Essenceia.github.io/CatSolution/"
 languageCode = "en-us"
 title = "CatSolution"
 themesDir = "themes"
 theme = "hugo-hero-theme"
+publishDir = "docs"
 
 [params]
   google_analytics_id=""
