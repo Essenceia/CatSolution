@@ -11,4 +11,4 @@ images: ['images/sandwitch.jpg',
 'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
 
-TODO
+Antoine est fait pour le marketing. Sa créativité exceptionnelle lui permet de créer du contenu de qualité. Il maitrise les clés de l'art de la publicité. Son inspiration inépuisable assure des campagnes marketing originales et efficaces.
