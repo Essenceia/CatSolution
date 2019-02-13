@@ -5,7 +5,7 @@ background: 'images/back-coins.png'
 button: ''
 ---
 
-## Budget pas chat
+## Budget par chat
 
 - 3 milliards € par an pour leur entretien
 
