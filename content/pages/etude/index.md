@@ -13,6 +13,11 @@ draft: false
 <div>
 {{< content-strip-right "/pages/etude" "content2" >}}
 </div>
+<center>
+<div>
+{{<figure src="/images/back-graphique.png" title="" >}}
+</div>
+</center>
 <div>
 {{< content-strip-left "/pages/etude" "concurence" >}}
 </div>
