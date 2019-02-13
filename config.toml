@@ -6,7 +6,7 @@ theme = "hugo-hero-theme"
 publishDir = "docs"
 
 [params]
-  google_analytics_id="UA-134445998-1"
+  google_analytics_id="UA-134453669-1"
 
   [params.homepage_meta_tags]
     meta_description = "Cat Solution est une solution inovante et disruptive utilisant des technologies de pointes tel que le FaceID et du machine learning pour reconaitre votre chat"
