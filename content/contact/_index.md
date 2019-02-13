@@ -1,6 +1,7 @@
 ---
 title: 'Contact'
 date: 2018-02-22T17:01:34+07:00
+phone: "1234567890"
 ---
 
-We offer a free consultation for all new clients.
+Envie d'entrer en contact ?

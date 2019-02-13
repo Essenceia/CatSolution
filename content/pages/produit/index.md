@@ -7,3 +7,6 @@ heroSubHeading: "La chatière intelligente ConnectiCat reconnais votre chat lors
 heroBackground: 'images/catflap.png'
 ---
 
+<div>
+{{< content-strip-center "/pages/produit" "acheter" >}}
+</div>

@@ -1,12 +1,11 @@
-baseURL = "https://essenceia.github.io/CatSolution/"
+baseURL = "https://catsolution.brelivet.fr"
 languageCode = "en-us"
 title = "CatSolution"
 themesDir = "themes"
 theme = "hugo-hero-theme"
-publishDir = "docs"
 
 [params]
-  google_analytics_id=""
+  google_analytics_id="UA-134445998-1"
 
   [params.homepage_meta_tags]
     meta_description = "Cat Solution est une solution inovante et disruptive utilisant des technologies de pointes tel que le FaceID et du machine learning pour reconaitre votre chat"
