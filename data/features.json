@@ -1,17 +1,17 @@
 [
   {
     "title": "FaceID",
-    "description": "Identification unique a votre chat.",
+    "description": "Identification unique à votre chat.",
     "image": "features/artificial-intelligence.svg"
   },
   {
-    "title": "Securiter renforcer",
-    "description": "Protection contre les intrusions renforcer.",
+    "title": "Securité renforcée",
+    "description": "Protection contre les intrusions renforcée.",
     "image": "features/locked.svg"
   },
   {
-    "title": "System autonome",
-    "description": "Facile d'utilisation et a mettre en place.",
+    "title": "Système autonome",
+    "description": "Facile à utiliser et à mettre en place.",
     "image": "features/power-button-off.svg"
   }
 ]

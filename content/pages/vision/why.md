@@ -9,7 +9,7 @@ button: ''
 
 #### Nos clients en on marre d'être esclaves de leur chat
 
-#### Sécuriser l'accés à la maison
+#### Sécuriser l'accès à la maison
 
 #### Verrouiller la chatière
 
