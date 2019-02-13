@@ -2,31 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on CatSolution</title>
-    <link>https://Essenceia.github.io/CatSolution/pages/</link>
+    <link>https://essenceia.github.io/CatSolution/pages/</link>
     <description>Recent content in Pages on CatSolution</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
     
-	<atom:link href="https://Essenceia.github.io/CatSolution/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://essenceia.github.io/CatSolution/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ConnectiCat</title>
-      <link>https://Essenceia.github.io/CatSolution/produit/</link>
+      <link>https://essenceia.github.io/CatSolution/produit/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>https://Essenceia.github.io/CatSolution/produit/</guid>
-      <description>No Limits Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
-      Integrity &amp;amp; Performance Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei.</description>
+      <guid>https://essenceia.github.io/CatSolution/produit/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Etude de marché</title>
-      <link>https://Essenceia.github.io/CatSolution/etude/</link>
+      <link>https://essenceia.github.io/CatSolution/etude/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>https://Essenceia.github.io/CatSolution/etude/</guid>
+      <guid>https://essenceia.github.io/CatSolution/etude/</guid>
       <description>Etude de marché  Foyers français  28 Millions de foyers
  28 % en ont au moins un (soit 8 millions de foyers)
  12.7 Millions de chats
@@ -38,19 +37,19 @@
     
     <item>
       <title>History</title>
-      <link>https://Essenceia.github.io/CatSolution/history/</link>
+      <link>https://essenceia.github.io/CatSolution/history/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>https://Essenceia.github.io/CatSolution/history/</guid>
+      <guid>https://essenceia.github.io/CatSolution/history/</guid>
       <description> About Heading </description>
     </item>
     
     <item>
       <title>Notre vision</title>
-      <link>https://Essenceia.github.io/CatSolution/vision/</link>
+      <link>https://essenceia.github.io/CatSolution/vision/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>https://Essenceia.github.io/CatSolution/vision/</guid>
+      <guid>https://essenceia.github.io/CatSolution/vision/</guid>
       <description> WHY Nos clients en on marre d&amp;rsquo;être esclaves de leur chat Sécuriser l&amp;rsquo;accés à la maison Verrouiller la chatière Savoir où est le chat Se rapprocher de son chat et de son comportement       HOW Face ID (caméra infrarouge) Data Analysis Servo-moteur Calcul embarqué       WHAT Chatière connectée Introduction de notre écosystème connecté Site web dans le cloud, et applications mobiles Venez decouvir notre produit      </description>
     </item>
     
