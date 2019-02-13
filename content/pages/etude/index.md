@@ -15,7 +15,7 @@ draft: false
 </div>
 <center>
 <div>
-{{<figure src="/images/back-graphique.png" title="" >}}
+{{<figure src="/CatSolution/images/back-graphique.png" title="" >}}
 </div>
 </center>
 <div>
