@@ -10,7 +10,7 @@ button: ''
 
 - Influenceurs : Snapchat, Instagram, Reddit
 
-- Identification du publicité ciblée : Facebook
+- Identification de publicité ciblée : Facebook, Twitter
 
 - Produits : croquettes, litières, colliers
 

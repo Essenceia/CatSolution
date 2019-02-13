@@ -3,7 +3,7 @@ title: 'Notre vision'
 date: 2018-12-06T09:29:16+10:00
 layout: 'aboutlayout'
 heroHeading: 'Notre produit'
-heroSubHeading: "Nous visons a revolutioner la marche de la chatiere grace a notre technologie inovante de reconnaissance de chat."
+heroSubHeading: "Nous visons à révolutionner le fonctionnement de la chatière grâce à notre technologie innovante de reconnaissance de chat."
 heroBackground: 'images/catflap.png'
 ---
 

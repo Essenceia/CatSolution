@@ -8,4 +8,4 @@ buttonLink: 'work'
 
 # L'équipe
 
-Notre projet vous interesse venez rencontrer l'équipe.
+Notre projet vous intéresse ? Venez rencontrer notre équipe !
