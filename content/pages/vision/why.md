@@ -7,7 +7,7 @@ button: ''
 
 # WHY
 
-#### Nos clients en on marre d'être esclaves de leur chat
+#### Nos clients en ont marre d'être esclaves de leur chat
 
 #### Sécuriser l'accès à la maison
 
