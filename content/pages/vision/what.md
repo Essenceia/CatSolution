@@ -1,7 +1,7 @@
 ---
 title: 'WHAT'
 date: 2018-12-06T09:29:16+10:00
-background: 'images/catflap.png'
+background: 'images/sleepy.jpg'
 buttonLink: 'produit'
 button: 'Venez découvir notre produit'
 ---

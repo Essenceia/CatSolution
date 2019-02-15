@@ -1,7 +1,7 @@
 ---
 title: 'Notre différence'
 weight: 2
-background: ''
+background: 'images/window.jpg'
 button: 'Notre solution'
 buttonLink: 'produit'
 ---

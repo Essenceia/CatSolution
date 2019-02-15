@@ -16,3 +16,8 @@ heroBackground: 'images/catflap.png'
 <div>
 {{< content-strip-center "/pages/vision" "what" >}}
 </div>
+
+<div>
+{{< content-strip-left "/pages/vision" "slides" >}}
+
+</div>
